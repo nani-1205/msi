@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pollution: A Growing Concern</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+            color: #333;
+        }
+        header {
+            background-color: #1e88e5;
+            color: white;
+            padding: 2rem;
+            text-align: center;
+        }
+        nav {
+            background-color: #1565c0;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav a {
+            color: #bbdefb;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+            color: #90caf9;
+        }
+        main {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 2rem;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #1565c0;
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 1.5rem;
+        }
+        img {
+            max-width: 100%;
+            border-radius: 8px;
+            margin-top: 1rem;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background-color: #1e88e5;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pollution: A Growing Concern</h1>
+        <p>Understanding its impact and ways to combat it.</p>
+    </header>
+    <nav>
+        <a href="#causes">Causes</a>
+        <a href="#effects">Effects</a>
+        <a href="#solutions">Solutions</a>
+    </nav>
+    <main>
+        <section id="causes">
+            <h2>What Causes Pollution?</h2>
+            <p>Pollution is caused by a variety of factors, including industrial emissions, vehicle exhaust, deforestation, and improper waste disposal. These activities release harmful substances into the air, water, and soil, disrupting ecosystems and harming life on Earth.</p>
+            <img src="https://source.unsplash.com/800x400/?pollution,factory" alt="Industrial pollution from factories">
+        </section>
+        <section id="effects">
+            <h2>The Effects of Pollution</h2>
+            <p>Pollution has far-reaching consequences, including global warming, health issues like respiratory problems, and loss of biodiversity. Air and water pollution are particularly harmful, affecting millions of lives worldwide.</p>
+            <img src="https://source.unsplash.com/800x400/?pollution,air-quality" alt="Air pollution in urban areas">
+        </section>
+        <section id="solutions">
+            <h2>How Can We Solve Pollution?</h2>
+            <p>Solutions to combat pollution include adopting renewable energy sources, enforcing strict environmental regulations, recycling, and raising awareness about sustainable practices. Individual actions, combined with collective efforts, can make a significant difference.</p>
+            <img src="https://source.unsplash.com/800x400/?recycling,green-energy" alt="Recycling and renewable energy solutions">
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Pollution Awareness Blog. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
