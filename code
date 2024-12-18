@@ -3,98 +3,79 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Natural Forests and Animals</title>
+    <title>Natural Forests and Animals 🌳🐾</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #e8f5e9;
-            color: #2e7d32;
+            background-color: #f4f4f9;
+            color: #333;
         }
         header {
-            background-color: #1b5e20;
+            background-color: #4CAF50;
             color: white;
-            padding: 1.5rem;
+            padding: 1rem;
             text-align: center;
         }
         nav {
-            background-color: #004d40;
+            background-color: #333;
             color: white;
-            padding: 0.75rem;
+            padding: 0.5rem;
             text-align: center;
         }
         nav a {
-            color: #b2dfdb;
+            color: white;
             text-decoration: none;
             margin: 0 15px;
-            font-weight: bold;
         }
         nav a:hover {
             text-decoration: underline;
-            color: #80cbc4;
         }
         section {
-            padding: 1.5rem;
-            margin: 1rem auto;
-            max-width: 800px;
-            background: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        section img {
-            max-width: 100%;
-            border-radius: 8px;
-            margin-top: 1rem;
+            padding: 1rem;
         }
         footer {
             text-align: center;
             padding: 1rem;
-            background-color: #1b5e20;
+            background-color: #4CAF50;
             color: white;
-        }
-        h2 {
-            color: #388e3c;
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>Natural Forests and Animal Co-Living</h1>
-        <p>Exploring harmony between ecosystems and wildlife</p>
+        <h1>Natural Forests and Animal Co-Living 🌳🐾</h1>
+        <p>Exploring harmony between ecosystems and wildlife 🌱🦋</p>
     </header>
     <nav>
-        <a href="#about">About</a>
-        <a href="#importance">Importance</a>
-        <a href="#challenges">Challenges</a>
-        <a href="#solutions">Solutions</a>
+        <a href="#about">About 🌍</a>
+        <a href="#importance">Importance 💡</a>
+        <a href="#challenges">Challenges ⚠️</a>
+        <a href="#solutions">Solutions 🌱</a>
     </nav>
     <section id="about">
-        <h2>About Natural Forests</h2>
-        <p>Natural forests are rich ecosystems that serve as a home for countless species of plants and animals. They maintain ecological balance and provide a vital space for wildlife to thrive.</p>
-        <img src="https://source.unsplash.com/800x400/?forest,nature" alt="A lush green forest">
+        <h2>About Natural Forests 🌳</h2>
+        <p>Natural forests are rich ecosystems that serve as a home for countless species of plants and animals 🦋🦓. They maintain ecological balance and provide a vital space for wildlife to thrive 🐦.</p>
     </section>
     <section id="importance">
-        <h2>Importance of Co-Living</h2>
-        <p>The co-living of animals and forests ensures biodiversity, promotes natural cycles like pollination, and keeps the ecosystem resilient against climate change.</p>
-        <img src="https://source.unsplash.com/800x400/?wildlife,biodiversity" alt="Wildlife and biodiversity in a forest">
+        <h2>Importance of Co-Living 🦁🌳</h2>
+        <p>The co-living of animals and forests ensures biodiversity 🌿, promotes natural cycles like pollination 🐝, and keeps the ecosystem resilient against climate change 🌍.</p>
     </section>
     <section id="challenges">
-        <h2>Challenges to Co-Living</h2>
-        <p>Deforestation, urbanization, and climate change threaten the balance of natural habitats, leading to loss of biodiversity and disruption of ecosystems.</p>
-        <img src="https://source.unsplash.com/800x400/?deforestation,climate-change" alt="Deforestation impact on the environment">
+        <h2>Challenges to Co-Living ⚠️</h2>
+        <p>Deforestation 🌲❌, urbanization 🏙️, and climate change 🌡️ threaten the balance of natural habitats, leading to loss of biodiversity and disruption of ecosystems.</p>
     </section>
     <section id="solutions">
-        <h2>Solutions for Harmony</h2>
+        <h2>Solutions for Harmony 🌱</h2>
         <ul>
-            <li>Protecting natural forests through conservation efforts</li>
-            <li>Creating wildlife corridors to connect fragmented habitats</li>
-            <li>Promoting sustainable development and reforestation</li>
+            <li>Protecting natural forests through conservation efforts 🛡️</li>
+            <li>Creating wildlife corridors to connect fragmented habitats 🌳➡️🌳</li>
+            <li>Promoting sustainable development and reforestation 🌍🌱</li>
         </ul>
-        <img src="https://source.unsplash.com/800x400/?reforestation,eco-friendly" alt="Reforestation and conservation efforts">
     </section>
     <footer>
-        <p>© 2024 Natural Forests and Wildlife Conservation. All rights reserved.</p>
+        <p>© 2024 Natural Forests and Wildlife Conservation 🌿🐾. All rights reserved.</p>
     </footer>
 </body>
 </html>
